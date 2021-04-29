@@ -16,6 +16,7 @@
 ```javascript
 function f(){
     console.log('hello world')
+    console.log('hello xiaoshe')
 }
 f()
 ```
